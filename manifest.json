@@ -1,0 +1,10 @@
+{
+  "name": "RemindMe",
+  "short_name": "RemindMe",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0f172a",
+  "description": "A simple local-first reminder app for Windows and Android browsers.",
+  "icons": []
+}
